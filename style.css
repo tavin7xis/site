@@ -9,7 +9,7 @@ header {
     border-bottom: solid 2px rgb(214, 179, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(214, 179, 0);
+    color: rgb(255, 255, 255);
 }
 
 .background {
@@ -48,7 +48,7 @@ header {
 
 .cursor {
     display: inline-block;
-    color: rgb(214, 179, 3);
+    color: rgb(255, 255, 255);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
