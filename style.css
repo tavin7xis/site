@@ -26,7 +26,7 @@ header {
 }
 
 .video {
-    border: solid 2px rgb(214, 179, 0);
+    border: solid 2px rgb(255, 255, 255);
 }
 
 .chamada-texto {
@@ -48,7 +48,7 @@ header {
 
 .cursor {
     display: inline-block;
-    color: rgb(255, 255, 255);
+    color: rgb(214, 197, 0);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
